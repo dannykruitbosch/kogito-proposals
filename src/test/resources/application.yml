@@ -1,0 +1,6 @@
+kogito:
+    service:
+        url: http://localhost:8090
+    decisions:
+        validation: ENABLED
+        
